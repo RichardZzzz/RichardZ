@@ -27,7 +27,7 @@ body{
   }
   .box h1:hover{
     transition: all ease-in-out 250ms;
-      color: #4fcaff;
+    color: #4fcaff;;
   }
   .box h5{
     font-size: 20px;
@@ -43,15 +43,16 @@ body{
   }
   .box li{
     display: inline-block;
-    margin: 6px;
+    margin: 10px;
     list-style: none;
   }
   .box li a{
     color: white;
     text-decoration: none;
-    font-size: 60px;
+    font-size: 50px;
     transition: all ease-in-out 250ms;
   }
   .box li a:hover{
-    color: #b9b9b9;
+    color: #4fcaff;
+    font-size: 60px;
   }
